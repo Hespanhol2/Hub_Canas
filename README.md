@@ -1,2 +1,2 @@
 # Hub_Canas
-Treinos/Aula
+Treino/Aula
